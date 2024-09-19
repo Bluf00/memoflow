@@ -1,0 +1,26 @@
+{
+  "name": "jate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+"scripts": {
+  "start:dev": "nodemon server.js",        
+  "start": "node server.js",               
+  "server": "node server.js",              
+  "build": "webpack --config webpack.config.js",  
+  "install": "npm install",                
+  "client": "npm run start --prefix client" 
+},
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "if-env": "^1.0.4"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
+  }
+}
