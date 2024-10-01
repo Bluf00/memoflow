@@ -8,7 +8,7 @@
   "start": "node server.js",               
   "server": "node server.js",              
   "build": "webpack --config webpack.config.js",  
-  "install": "npm install",                
+                  
   "client": "npm run start --prefix client" 
 },
 
