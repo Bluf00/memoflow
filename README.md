@@ -2,12 +2,12 @@
 
 Deployed link: https://memoflow.onrender.com
 
-# Momoflow
+
 
 ![License](https://img.shields.io/badge/license-None-blue.svg)
 
 ## Description
-**Momoflow** is a Progressive Web Application (PWA) designed for taking notes quickly and efficiently. Users can write notes directly in the web app, and with a single click, install it on their device for offline use. This lightweight application offers a smooth and streamlined experience compared to traditional web apps.
+**Memoflow** is a Progressive Web Application (PWA) designed for taking notes quickly and efficiently. Users can write notes directly in the web app, and with a single click, install it on their device for offline use. This lightweight application offers a smooth and streamlined experience compared to traditional web apps.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -18,7 +18,7 @@ Deployed link: https://memoflow.onrender.com
 - [Questions](#questions)
 
 ## Installation
-To install and run **Momoflow**, follow these steps:
+To install and run **Memoflow**, follow these steps:
 1. Clone the repository to your local machine.
 2. Run `npm install` to install all necessary dependencies.
 3. Use `npm start` to build the distribution folder and launch the application locally via Render.
@@ -46,7 +46,7 @@ Contributions are welcome! Here's how you can contribute:
 3. Make your changes and submit a pull request. Contributions will be reviewed and either approved or declined.
 
 ## Tests
-You can test **Momoflow** by:
+You can test **Memoflow** by:
 1. Using the live version of the app hosted on Render.
 2. Cloning the repository, following the installation instructions, and running it locally to test features and functionality.
 
